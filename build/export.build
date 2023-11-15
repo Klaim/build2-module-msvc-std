@@ -1,0 +1,6 @@
+$out_root/
+{
+  include msvc-std/
+}
+
+export $out_root/msvc-std/$import.target

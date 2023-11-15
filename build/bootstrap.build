@@ -1,0 +1,7 @@
+project = msvc-std
+
+using version
+using config
+using test
+using install
+using dist
